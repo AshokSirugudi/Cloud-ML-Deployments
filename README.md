@@ -1,6 +1,7 @@
 # Cloud-ML-Deployments
 
 This repository focuses on deploying ML models on popular cloud platforms using modern tooling and deployment standards.
+
 **What**: End-to-end ML workflows with full lifecycle — from data to deployment readiness.  
 **Why**: Demonstrates proficiency in engineering, modeling, and ML system design.  
 **Where**: Focuses on real projects with clean pipelines, reproducibility, and evaluation.  
