@@ -1,8 +1,5 @@
 # Cloud ML Deployments
 
-<<<<<<< HEAD
-A repository focused on deploying machine learning models using modern cloud platforms and tools.
-=======
 This repository focuses on deploying ML models on popular cloud platforms using modern tooling and deployment standards.
 
 **What**: End-to-end ML workflows with full lifecycle — from data to deployment readiness.  
@@ -10,7 +7,7 @@ This repository focuses on deploying ML models on popular cloud platforms using 
 **Where**: Focuses on real projects with clean pipelines, reproducibility, and evaluation.  
 **Which**: Best for structured classification and regression problems.  
 **How**: Clean data → engineer features → train & evaluate models → automate pipelines.
->>>>>>> 1dec45c99851dbf3dcd88185bd62127ffdc11cb1
+
 
 ---
 
